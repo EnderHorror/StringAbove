@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec959de12cbc4794ea29285ee7da26b6, type: 3}
+  m_Name: DataBase
+  m_EditorClassIdentifier: 
+  Course:
+  - name: "\u6BB5\u4F4D\u4E00"
+    subtitle: 
+    manualAudio: {fileID: 8300000, guid: 5cd1dd65c8994bd49b2ec86512ab4d9e, type: 3}
+    parts:
+    - name: "P8\u8BF7\u5F39\u5427"
+      fileName: 8
+      Mode: 0
+    - name: "P10\u7237\u7237\u7684\u5927\u949F"
+      fileName: 10
+      Mode: 0
+    - name: "P11\u83AB\u5361\u8F9B\u8F6F\u76AE\u978B\u821E"
+      fileName: 11
+      Mode: 0
+    - name: "P13\u706B\u8F66"
+      fileName: 13
+      Mode: 0
+    - name: "P14\u6D77\u519B\u5DE5\u5175"
+      fileName: 14
+      Mode: 0
+    - name: "P16\u5C0F\u77EE\u4EBA\u8FDB\u884C\u66F2"
+      fileName: 16
+      Mode: 0
+    - name: "P17\u5C0F\u77EE\u4EBA\u821E\u66F2"
+      fileName: 17
+      Mode: 0
+    - name: "P18\u739B\u4E3D\u6709\u53EA\u5C0F\u7F94\u7F8A"
+      fileName: 18
+      Mode: 0
+    - name: "P19\u4F1E\u5175"
+      fileName: 19
+      Mode: 0
+    - name: "P20\u8D8A\u8FC7\u5C71\u5761"
+      fileName: 20
+      Mode: 0
+    - name: "P21\u96F7\u683C\u6CF0\u59C6\u821E"
+      fileName: 21
+      Mode: 0
+    - name: "P23\u6392\u949F"
+      fileName: 23
+      Mode: 0
+    - name: "P24\u6ED1\u7A3D\u9762\u5B54"
+      fileName: 24
+      Mode: 0
+    - name: "P25\u8001\u9EA6\u514B\u5510\u7EB3"
+      fileName: 25
+      Mode: 0
+    - name: "P27\u62D4\u6CB3"
+      fileName: 27
+      Mode: 0
+    - name: "P28\u6559\u5802\u7BA1\u98CE\u7434"
+      fileName: 28
+      Mode: 0
+    - name: "P29\u626C\u57FA\u6B4C"
+      fileName: 29
+      Mode: 0
+    - name: "P30\u628A\u6211\u5E26\u56DE\u798F\u5409\u5C3C\u6545\u4E61"
+      fileName: 30
+      Mode: 0
+    - name: "P31\u6458\u68C9\u82B1\u7684\u8001\u4EBA"
+      fileName: 31
+      Mode: 0
+    - name: "P32\u81EA\u65B0\u5927\u9646"
+      fileName: 32
+      Mode: 0
+    - name: "P33\u519B\u53F7\u54CD"
+      fileName: 33
+      Mode: 0
+    - name: "P34\u5212\u5440\u5212"
+      fileName: 34
+      Mode: 0
+    - name: "P35\u6709\u8C01\u77E5\u9053\u5230\u6211\u7684\u5FE7\u6101"
+      fileName: 35
+      Mode: 0
+    - name: "P36\u4E58\u9EC4\u5305\u8F66"
+      fileName: 36
+      Mode: 0
+    - name: "P37\u73ED\u5353\u7434\u624B"
+      fileName: 37
+      Mode: 0
+    - name: "P38\u516C\u4E3B\u5706\u821E\u66F2"
+      fileName: 38
+      Mode: 0
+  - name: "\u6BB5\u4F4D\u4E8C"
+    subtitle: 
+    manualAudio: {fileID: 8300000, guid: 357e7f4d29d7a3f439364d5180b7965a, type: 3}
+    parts:
+    - name: "\u6B22\u4E50\u9882"
+      fileName: "\u6B22\u4E50\u9882"
+      Mode: 0
+    - name: "\u5979\u8BF4"
+      fileName: "\u5979\u8BF4"
+      Mode: 0
+    - name: "\u5C0F\u661F\u661F"
+      fileName: "\u5C0F\u661F\u661F"
+      Mode: 0
+    - name: "\u9047\u89C1"
+      fileName: "\u9047\u89C1"
+      Mode: 0
+    - name: "\u795D\u4F60\u751F\u65E5\u5FEB\u4E50"
+      fileName: "\u795D\u4F60\u751F\u65E5\u5FEB\u4E50"
+      Mode: 0
+    - name: "2-1\u80CC\u5BF9\u80CC\u62E5\u62B1"
+      fileName: "\u80CC\u5BF9\u80CC\u62E5\u62B1"
+      Mode: 0
+    - name: "2-1\u90A3\u4E9B\u5E74\u4F60\u5F88\u5192\u9669\u7684\u68A6"
+      fileName: "\u90A3\u4E9B\u5E74\u4F60\u5F88\u5192\u9669\u7684\u68A6"
+      Mode: 0
+    - name: "2-3\u4FEE\u70BC\u7231\u60C5"
+      fileName: "\u4FEE\u70BC\u7231\u60C5"
+      Mode: 0
+    - name: "2-5\u5173\u952E\u8BCD"
+      fileName: "\u5173\u952E\u8BCD"
+      Mode: 0
+    - name: "2-7\u624B\u5FC3\u7684\u8537\u8587"
+      fileName: "\u624B\u5FC3\u7684\u8537\u8587"
+      Mode: 0
+  - name: "\u6BB5\u4F4D\u4E09"
+    subtitle: 
+    manualAudio: {fileID: 0}
+    parts:
+    - name: "a\u5C0F\u8C03\u77ED\u7436\u97F3\u53F3\u624B"
+      fileName: "a\u5C0F\u8C03\u77ED\u7436\u97F3\u53F3\u624B"
+      Mode: 0
+    - name: "a\u5C0F\u8C03\u77ED\u7436\u97F3\u5DE6\u624B"
+      fileName: "a\u5C0F\u8C03\u77ED\u7436\u97F3\u5DE6\u624B"
+      Mode: 0
+    - name: "a\u5C0F\u8C03\u7436\u97F3\u53F3\u624B"
+      fileName: "a\u5C0F\u8C03\u7436\u97F3\u53F3\u624B"
+      Mode: 0
+    - name: "a\u5C0F\u8C03\u7436\u97F3\u5DE6\u624B"
+      fileName: "a\u5C0F\u8C03\u7436\u97F3\u5DE6\u624B"
+      Mode: 0
+    - name: "a\u5C0F\u8C03\u97F3\u9636\u53F3\u624B"
+      fileName: "a\u5C0F\u8C03\u97F3\u9636\u53F3\u624B"
+      Mode: 0
+    - name: "a\u5C0F\u8C03\u97F3\u9636\u5DE6\u624B"
+      fileName: "a\u5C0F\u8C03\u97F3\u9636\u5DE6\u624B"
+      Mode: 0
+    - name: "C\u5927\u8C03\u77ED\u7436\u97F3\u53F3\u624B"
+      fileName: "C\u5927\u8C03\u77ED\u7436\u97F3\u53F3\u624B"
+      Mode: 0
+    - name: "C\u5927\u8C03\u77ED\u7436\u97F3\u5DE6\u624B"
+      fileName: "C\u5927\u8C03\u77ED\u7436\u97F3\u5DE6\u624B"
+      Mode: 0
+    - name: "C\u5927\u8C03\u7436\u97F3\u53F3\u624B"
+      fileName: "C\u5927\u8C03\u7436\u97F3\u53F3\u624B"
+      Mode: 0
+    - name: "C\u5927\u8C03\u7436\u97F3\u5DE6\u624B"
+      fileName: "C\u5927\u8C03\u7436\u97F3\u5DE6\u624B"
+      Mode: 0
+    - name: "C\u5927\u8C03\u97F3\u9636\u53F3\u624B"
+      fileName: "C\u5927\u8C03\u97F3\u9636\u53F3\u624B"
+      Mode: 0
+    - name: "C\u5927\u8C03\u97F3\u9636\u5DE6\u624B"
+      fileName: "C\u5927\u8C03\u97F3\u9636\u5DE6\u624B"
+      Mode: 0
+  - name: "\u6BB5\u4F4D4"
+    subtitle: 
+    manualAudio: {fileID: 0}
+    parts:
+    - name: "4-1\u7B80\u4ECB"
+      fileName: '{1}'
+      Mode: 1
+    - name: 4-1
+      fileName: 
+      Mode: 0
+    - name: "4-2\u7B80\u4ECB"
+      fileName: 
+      Mode: 1
+    - name: 4-2
+      fileName: 
+      Mode: 0
+    - name: "4-3\u7B80\u4ECB"
+      fileName: '{5}'
+      Mode: 1
+    - name: 4-3
+      fileName: 
+      Mode: 0
+    - name: "4-4\u7B80\u4ECB"
+      fileName: '{7}'
+      Mode: 1
+    - name: 4-4
+      fileName: 
+      Mode: 0
+    - name: "4-5\u7B80\u4ECB"
+      fileName: '{9}'
+      Mode: 1
+    - name: 4-4
+      fileName: 
+      Mode: 0
+  - name: "\u6F14\u793A"
+    subtitle: 
+    manualAudio: {fileID: 0}
+    parts:
+    - name: "\u6F14\u793A"
+      fileName: "\u90A3\u4E9B\u5E74\u4F60\u5F88\u5192\u9669\u7684\u68A61"
+      Mode: 0

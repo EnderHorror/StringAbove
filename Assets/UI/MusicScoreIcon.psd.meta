@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: 7bd9645d3ad71014d85588022fb2b48b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3253105726496064309
+    second: MusicScoreIcon_0
+  - first:
+      213: 4443092729070556967
+    second: MusicScoreIcon_1
+  - first:
+      213: 1527603919410333235
+    second: MusicScoreIcon_2
+  - first:
+      213: -5815754786678898129
+    second: MusicScoreIcon_3
+  - first:
+      213: 8776223826276832828
+    second: MusicScoreIcon_4
+  - first:
+      213: 3350507418074602463
+    second: MusicScoreIcon_5
+  - first:
+      213: -3318146671822842717
+    second: MusicScoreIcon_6
+  - first:
+      213: 2396621421028956179
+    second: MusicScoreIcon_7
+  - first:
+      213: -8099415941308622320
+    second: MusicScoreIcon_8
+  - first:
+      213: 122879757002850566
+    second: MusicScoreIcon_9
+  - first:
+      213: -2059420489398326626
+    second: MusicScoreIcon_10
+  - first:
+      213: -3987677985189290352
+    second: MusicScoreIcon_11
+  - first:
+      213: 9051344801078406699
+    second: MusicScoreIcon_12
+  - first:
+      213: 664325838870971230
+    second: MusicScoreIcon_13
+  - first:
+      213: -2846060929714851737
+    second: MusicScoreIcon_14
+  - first:
+      213: 2483926845822151954
+    second: MusicScoreIcon_15
+  - first:
+      213: 1622725005639648487
+    second: MusicScoreIcon_16
+  - first:
+      213: -3950001761814473930
+    second: MusicScoreIcon_17
+  - first:
+      213: 340431917643107356
+    second: MusicScoreIcon_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MusicScoreIcon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 692
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccb963d395aad2d0800000000000000
+      internalID: -3253105726496064309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicScoreIcon_2
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1898
+        width: 134
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33682fdcba3233510800000000000000
+      internalID: 1527603919410333235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicScoreIcon_3
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1907
+        width: 209
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f220a3fa5d94a4fa0800000000000000
+      internalID: -5815754786678898129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicScoreIcon_4
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 1904
+        width: 135
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36dc8252196bc970800000000000000
+      internalID: 8776223826276832828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicScoreIcon_5
+      rect:
+        serializedVersion: 2
+        x: 3685
+        y: 1867
+        width: 168
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbd5a7beb46f7e20800000000000000
+      internalID: 3350507418074602463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicScoreIcon_6
+      rect:
+        serializedVersion: 2
+        x: 4838
+        y: 1836
+        width: 271
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4da59ae2393f1d0800000000000000
+      internalID: -3318146671822842717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicScoreIcon_8
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 1917
+        width: 208
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ad92a2d18199f80800000000000000
+      internalID: -8099415941308622320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicScoreIcon_9
+      rect:
+        serializedVersion: 2
+        x: 5712
+        y: 2039
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601cd3aec7e84b100800000000000000
+      internalID: 122879757002850566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicScoreIcon_10
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1792
+        width: 387
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a6046e9f77b63e0800000000000000
+      internalID: -2059420489398326626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicScoreIcon_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 564
+        height: 1514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e9526000ce8a8c0800000000000000
+      internalID: -3987677985189290352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicScoreIcon_12
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 761
+        width: 246
+        height: 671
+      alignment: 9
+      pivot: {x: 0.47180176, y: 0.14506201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e6bd7f326dc9d70800000000000000
+      internalID: 9051344801078406699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicScoreIcon_13
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 761
+        width: 244
+        height: 671
+      alignment: 9
+      pivot: {x: 0.49052355, y: 0.14506201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e538409a4d8283900800000000000000
+      internalID: 664325838870971230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicScoreIcon_14
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 761
+        width: 452
+        height: 671
+      alignment: 9
+      pivot: {x: 0.26468083, y: 0.13817003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7607a3bd9a2c088d0800000000000000
+      internalID: -2846060929714851737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicScoreIcon_15
+      rect:
+        serializedVersion: 2
+        x: 4294
+        y: 766
+        width: 450
+        height: 787
+      alignment: 9
+      pivot: {x: 0.27391168, y: 0.11217401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d294d4e4ea87220800000000000000
+      internalID: 2483926845822151954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicScoreIcon_16
+      rect:
+        serializedVersion: 2
+        x: 5062
+        y: 761
+        width: 450
+        height: 787
+      alignment: 9
+      pivot: {x: 0.26363498, y: 0.12686433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e48b498bc3158610800000000000000
+      internalID: 1622725005639648487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicScoreIcon_17
+      rect:
+        serializedVersion: 2
+        x: 6022
+        y: 1001
+        width: 376
+        height: 774
+      alignment: 9
+      pivot: {x: 0.5169262, y: 0.034071498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63391ec5356ce29c0800000000000000
+      internalID: -3950001761814473930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicScoreIcon_18
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 761
+        width: 288
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c8251860579b400800000000000000
+      internalID: 340431917643107356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

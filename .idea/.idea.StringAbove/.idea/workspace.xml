@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e27aa27a-c237-4c70-9227-0b162e4b885d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/HumanVoicePitchDetector/Scripts/PitchDetector/MicrophonePitchDetector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dll/MusicXml/Domain/Key.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dll/MusicXml/Domain/Pitch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dll/MusicXml/Domain/Backup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MeauseLine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ViewLevelPannel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HumanVoicePitchDetector/Scripts/PitchDetector/RAPTPitchDetectorExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptObject/CourseObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HumanVoicePitchDetector/Scripts/PitchDetector/RAPTPitchDetector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dll/MusicXml/Domain/Note.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ProgressRing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dll/MusicXml/Domain/Clef.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KeyBorads.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dll/MusicXml/Domain/MeasureAttributes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PartButtonGenerate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CurosePannel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dll/MusicXml/Domain/Part.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dll/MusicXml/Domain/Measure.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TouchSlid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AlwaysEnable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TimerLable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StaffLine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IRestart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ManualAudioSource.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MusicScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NoteTypeEnum.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dll/MusicXml/MusicXmlParser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/JudgeZone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackUpButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PartStaffLine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VideoPlayUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayingBackToMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Quantum Tek/Quantum UI/Scripts/QUI_Element.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NoteSign.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ErrorTouchManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CourseButtonGenerate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LunarConsole/Scripts/LunarConsole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HumanVoicePitchDetector/Scripts/MicrophoneDemo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BeatSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dll/MusicXml/Domain/MeasureElement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Unity/2019.4.6f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dll/MusicXml/Domain/Lyric.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dll/MusicXml/Domain/Forward.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ToneRecognition/Assets/SoundRiciver.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/CourseButtonGenerate.cs" />
+        <option value="$PROJECT_DIR$/Assets/BackUpButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/PartButtonGenerate.cs" />
+        <option value="$PROJECT_DIR$/Assets/TouchSlid.cs" />
+        <option value="$PROJECT_DIR$/Assets/CurosePannel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ProgressRing.cs" />
+        <option value="$PROJECT_DIR$/Assets/KeyBorads.cs" />
+        <option value="$PROJECT_DIR$/Assets/NoteSign.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IRestart.cs" />
+        <option value="$PROJECT_DIR$/Assets/StaffLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/NuGet/Editor/NuspecFile.cs" />
+        <option value="$PROJECT_DIR$/../ToneRecognition/Assets/SoundRiciver.cs" />
+        <option value="$PROJECT_DIR$/Assets/MobieErrorLog.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayingBackToMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/JudgeZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicScoreManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CurosePannel.cs" />
+        <option value="$PROJECT_DIR$/Assets/ErrorTouchManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/PartStaffLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TouchSlid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MobieErrorLog.cs" />
+        <option value="$PROJECT_DIR$/Assets/HumanVoicePitchDetector/Scripts/PitchDetector/RAPTPitchDetectorExtensions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dll/MusicXml/Domain/Pitch.cs" />
+        <option value="$PROJECT_DIR$/Assets/HumanVoicePitchDetector/Scripts/PitchDetector/MicrophonePitchDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/HumanVoicePitchDetector/Scripts/MicrophoneDemo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dll/MusicXml/Domain/BarStyle.cs" />
+        <option value="$PROJECT_DIR$/Assets/AlwaysEnable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackUpButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dll/MusicXml/Domain/MeasureAttributes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dll/MusicXml/Domain/Measure.cs" />
+        <option value="$PROJECT_DIR$/Assets/ManualAudioSource.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CourseButtonGenerate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptObject/CourseObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PartButtonGenerate.cs" />
+        <option value="$PROJECT_DIR$/Assets/VideoPlayUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KeyBorads.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PartStaffLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayingBackToMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dll/MusicXml/MusicXmlParser.cs" />
+        <option value="$PROJECT_DIR$/Assets/MeauseLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/BeatSound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MusicScoreManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TimerLable.cs" />
+        <option value="$PROJECT_DIR$/Assets/ViewLevelPannel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MusicScoreManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/JudgeZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/JudgeZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NoteSign.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NoteSign.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StaffLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StaffLine.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1etvtblQebyop5FuSEFv5FgyNjt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e27aa27a-c237-4c70-9227-0b162e4b885d" name="Default Changelist" comment="" />
+      <created>1615444535049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615444535049</updated>
+      <workItem from="1615444539876" duration="610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2151" height="360" key="GridCell.Tab.0.bottom" timestamp="1606475283705">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="360" key="GridCell.Tab.0.bottom/0.0.2194.1194/3840.0.1920.1080@0.0.2194.1194" timestamp="1606475283705" />
+    <state width="2151" height="360" key="GridCell.Tab.0.center" timestamp="1606475283705">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="360" key="GridCell.Tab.0.center/0.0.2194.1194/3840.0.1920.1080@0.0.2194.1194" timestamp="1606475283705" />
+    <state width="2151" height="360" key="GridCell.Tab.0.left" timestamp="1606475283704">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="360" key="GridCell.Tab.0.left/0.0.2194.1194/3840.0.1920.1080@0.0.2194.1194" timestamp="1606475283704" />
+    <state width="2151" height="360" key="GridCell.Tab.0.right" timestamp="1606475283705">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="360" key="GridCell.Tab.0.right/0.0.2194.1194/3840.0.1920.1080@0.0.2194.1194" timestamp="1606475283705" />
+    <state width="2151" height="360" key="GridCell.Tab.1.bottom" timestamp="1606475307156">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="360" key="GridCell.Tab.1.bottom/0.0.2194.1194/3840.0.1920.1080@0.0.2194.1194" timestamp="1606475307156" />
+    <state width="2151" height="360" key="GridCell.Tab.1.center" timestamp="1606475307156">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="360" key="GridCell.Tab.1.center/0.0.2194.1194/3840.0.1920.1080@0.0.2194.1194" timestamp="1606475307156" />
+    <state width="2151" height="360" key="GridCell.Tab.1.left" timestamp="1606475307156">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="360" key="GridCell.Tab.1.left/0.0.2194.1194/3840.0.1920.1080@0.0.2194.1194" timestamp="1606475307156" />
+    <state width="2151" height="360" key="GridCell.Tab.1.right" timestamp="1606475307156">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="360" key="GridCell.Tab.1.right/0.0.2194.1194/3840.0.1920.1080@0.0.2194.1194" timestamp="1606475307156" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
